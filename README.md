@@ -6,8 +6,10 @@
 
 ***
   
-## Day 2
-  - Tip Calculator
+**Day 1**
+- [Tip Calculator](https://github.com/sherrycayheyhey/100-Days-of-Code/blob/main/tip_calculator.py)
+
+***
   
 ## Day 3
   - Choose Your Own Adventure 
