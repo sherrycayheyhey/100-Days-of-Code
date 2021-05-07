@@ -6,13 +6,17 @@
 
 ***
   
-**Day 1**
+**Day 2**
 - [Tip Calculator](https://github.com/sherrycayheyhey/100-Days-of-Code/blob/main/tip_calculator.py)
 
 ***
   
-## Day 3
-  - Choose Your Own Adventure 
+**Day 3**
+- [Choose Your Own Adventure](https://github.com/sherrycayheyhey/100-Days-of-Code/blob/main/choose_you_own_adventure.py)
 
-## Day 4
-  - Pokémon Name Generator
+***
+
+**Day 4**
+- [blah blah](https://github.com/sherrycayheyhey/100-Days-of-Code/blob/main/pokemon_name_generator.py)
+
+***
