@@ -17,6 +17,6 @@
 ***
 
 **Day 4**
-- [Pokemon Type Game](https://github.com/sherrycayheyhey/100-Days-of-Code/blob/main/pokemon_name_generator.py)
+- [Pokemon Type Game](https://github.com/sherrycayheyhey/100-Days-of-Code/blob/main/pokemon_type_game.py)
 
 ***
