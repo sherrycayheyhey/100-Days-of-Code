@@ -29,10 +29,20 @@ number_string = ""
 for num in range(nr_numbers):
   number_string += numbers[random.randint(0, len(numbers) - 1)]
 
-# combine the letter, symbol, and number strings together
-print(f"{letter_string}{symbol_string}{number_string}")
+password = letter_string + symbol_string + number_string
+
+print(f"original password: {password}")
 
 ##################################################################################### 
 
 #Hard Level - Order of characters randomised:
 #e.g. 4 letter, 2 symbol, 2 number = g^2jk8&P
+
+# convert the password string to a list
+password_list = list(password)
+# randomly shuffle the list
+random.shuffle(password_list)
+# put the list back together as a string
+shuffled_password = ''.join(password_list)
+
+print(f"shuffeled password: {shuffled_password}")
