@@ -1,0 +1,22 @@
+# to be used on: https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json
+
+def turn_right():
+    turn_left()
+    turn_left()
+    turn_left()
+ 
+# seek out a wall
+while front_is_clear():
+    move()
+
+# make the robot's right side touch the wall that it ran into
+turn_left()
+
+while not at_goal():
+    if right_is_clear:
+        turn_right()
+        move()
+    elif not front_is_clear():
+        move()
+    else: 
+        turn_left()
