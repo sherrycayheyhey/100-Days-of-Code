@@ -20,3 +20,18 @@
 - [Pokemon Type Game](https://github.com/sherrycayheyhey/100-Days-of-Code/blob/main/pokemon_type_game.py)
 
 ***
+
+**Day 5**
+- [Password Generator](https://github.com/sherrycayheyhey/100-Days-of-Code/blob/main/password_generator.py)
+
+***
+
+**Day 6**
+- [Robot Maze](https://github.com/sherrycayheyhey/100-Days-of-Code/blob/main/reeborg_maze)
+
+***
+
+**Day 7**
+- [Hangman](https://github.com/sherrycayheyhey/100-Days-of-Code/tree/main/hangman)
+
+***
