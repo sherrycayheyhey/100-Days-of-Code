@@ -1,5 +1,6 @@
+from replit import clear
 import random
-from hangman_art import * #hangmen and logo
+from hangman_art import logo, stages #hangmen and logo
 from hangman_words import word_list #list of words
 
 # set up game state variables 
@@ -22,6 +23,9 @@ for _ in range(word_length):
 while not end_of_game:
     
     guess = input("Guess a letter: ").lower()
+    
+    # clear the screen after the letter is entered
+    clear()
 
     # letter already used
     if guess in display:
@@ -37,7 +41,7 @@ while not end_of_game:
 
     # incorrect letter guessed
     if guess not in chosen_word:
-        print(f"{guess} is not in the word")
+        print(f"{guess} is not in the word, you lose a life")
         lives -= 1
         if lives == 0:
             end_of_game = True
