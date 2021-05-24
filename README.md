@@ -35,3 +35,18 @@
 - [Hangman](https://github.com/sherrycayheyhey/100-Days-of-Code/tree/main/hangman)
 
 ***
+
+**Day 8**
+- [Caesar Cipher](https://github.com/sherrycayheyhey/100-Days-of-Code/tree/main/caesar%20cipher)
+
+***
+
+**Day 9**
+- [Silent Auction](https://github.com/sherrycayheyhey/100-Days-of-Code/tree/main/silent_auction)
+
+***
+
+**Day 10**
+- [Calculator](https://github.com/sherrycayheyhey/100-Days-of-Code/tree/main/calculator)
+
+***
