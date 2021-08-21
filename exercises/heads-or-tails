@@ -1,0 +1,11 @@
+# add pictures, expand with dice roller and magic 8 ball
+# let user choose which item they want to use 
+
+import random
+
+num = random.randint(0, 1)
+
+if num == 0:
+  print("Tails")
+else:
+  print("Heads")
