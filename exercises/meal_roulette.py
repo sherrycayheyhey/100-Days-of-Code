@@ -1,3 +1,5 @@
+# teach about the split function
+
 import random
 
 # Split string method
