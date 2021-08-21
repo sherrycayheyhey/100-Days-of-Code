@@ -1,3 +1,5 @@
+# could be soda, cakes, build a bear, etc.
+
 print("Welcome to Python Pizza Deliveries!")
 size = input("What size pizza do you want? S, M, or L ")
 add_pepperoni = input("Do you want pepperoni? Y or N ")
