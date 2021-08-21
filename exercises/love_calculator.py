@@ -1,3 +1,5 @@
+# use different words to check, different inputs like peanut butter and jelly, etc.
+
 print("Welcome to the Love Calculator!")
 name1 = input("What is your name? \n")
 name2 = input("What is their name? \n")
