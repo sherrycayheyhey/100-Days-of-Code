@@ -1,3 +1,5 @@
+# could be expanded to check other things like multiple of 3, etc.
+
 number = int(input("Which number do you want to check? "))
 
 if number % 2:
