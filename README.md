@@ -50,3 +50,8 @@
 - [Calculator](https://github.com/sherrycayheyhey/100-Days-of-Code/tree/main/calculator)
 
 ***
+
+**Day 11**
+- [Blackjack](https://github.com/sherrycayheyhey/100-Days-of-Code/tree/main/Blackjack)
+
+***
