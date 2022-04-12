@@ -56,7 +56,7 @@
 
 ***
 
-**Day 11**
+**Day 12**
 - [Guess My Pokemon](https://github.com/sherrycayheyhey/100-Days-of-Code/tree/main/NumberGuess)
 
 ***
