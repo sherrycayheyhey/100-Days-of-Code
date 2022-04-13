@@ -60,3 +60,8 @@
 - [Guess My Pokemon](https://github.com/sherrycayheyhey/100-Days-of-Code/tree/main/NumberGuess)
 
 ***
+
+**Day 13**
+- [Debugging](https://github.com/sherrycayheyhey/100-Days-of-Code/tree/main/debugging)
+
+***
